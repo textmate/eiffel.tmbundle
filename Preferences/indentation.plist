@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>indentation</string>
+	<string>Indentation</string>
 	<key>scope</key>
 	<string>source.eiffel</string>
 	<key>settings</key>

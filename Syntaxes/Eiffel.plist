@@ -6,10 +6,6 @@
 	<array>
 		<string>e</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(class|once|do|external)</string>
-	<key>foldingStopMarker</key>
-	<string>(ensure|end)</string>
 	<key>keyEquivalent</key>
 	<string>^~E</string>
 	<key>name</key>
